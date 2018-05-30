@@ -1,4 +1,4 @@
 # markdownUebung
 
-[HTL Leoben] (www.htl-leoben.at)
-[Youtube] (www.youtube.com)
+[HTL Leoben] (https://www.htl-leoben.at/)
+[Youtube] (https://www.youtube.com/)
