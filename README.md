@@ -1,4 +1,5 @@
 # markdownUebung
 
-[HTL Leoben](https://www.htl-leoben.at/)
-[Youtube](https://www.youtube.com/)
+## Links
+* [Youtube](https://www.youtube.com/)
+* [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
